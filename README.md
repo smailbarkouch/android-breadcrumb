@@ -1,6 +1,8 @@
 # android-breadcrumb
 
-Basic and fully functional breadcrumb in android.
+[![](https://jitpack.io/v/SmailBarkouch/android-breadcrumb.svg)](https://jitpack.io/#SmailBarkouch/android-breadcrumb)
+
+A basic and fully functional breadcrumb in android.
 
 To add this library to your own project click *[here](https://jitpack.io/#SmailBarkouch/android-breadcrumb)*
 
