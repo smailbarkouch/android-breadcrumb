@@ -49,3 +49,7 @@ Available Functions:
 
 Screenshots:
 
+![Example 1](readme-images/example-1.png)
+
+![Example 2](readme-images/example-2.png)
+
