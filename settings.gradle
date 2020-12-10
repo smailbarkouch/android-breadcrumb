@@ -1,3 +1,2 @@
 include ':android-breadcrumb'
-include ':app'
 rootProject.name = "android-breadcrumb"
