@@ -1,5 +1,7 @@
 # android-breadcrumb
 
+**Note: This project is currently in maintenance mode. If there are any bugs or additional features you want, feel free to fork and make a pull request, or make an issue.**
+
 [![](https://jitpack.io/v/SmailBarkouch/android-breadcrumb.svg)](https://jitpack.io/#SmailBarkouch/android-breadcrumb)
 
 A basic and fully functional breadcrumb in android.
